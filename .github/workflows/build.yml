@@ -15,7 +15,7 @@ jobs:
         uses: aurelien-baudet/workflow-dispatch@v2
         with:
           token: ${{ secrets.GIT_PUSH_TOKEN }}
-          repo: OpenG2P/openg2p-packaging
+          repo: pramod444/openg2p-packaging
           workflow: OpenG2P Odoo Package Dockers build
           input: "{\"packageName\": \"${{ env.BRANCH_NAME }}\"}"
           ref: main
