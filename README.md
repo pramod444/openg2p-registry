@@ -1,5 +1,5 @@
 
-<!-- /!\ Non OCA Context : Set here the badge of your runbot / runboat instance. -->
+<!-- /!\ Non OCA Context : Set here the badge of your runbot / runboat instance.. -->
 [![Pre-commit Status](https://github.com/openg2p/openg2p-registry/actions/workflows/pre-commit.yml/badge.svg?branch=15.0-develop)](https://github.com/openg2p/openg2p-registry/actions/workflows/pre-commit.yml?query=branch%3A15.0-develop)
 [![Build Status](https://github.com/openg2p/openg2p-registry/actions/workflows/test.yml/badge.svg?branch=15.0-develop)](https://github.com/openg2p/openg2p-registry/actions/workflows/test.yml?query=branch%3A15.0-develop)
 [![codecov](https://codecov.io/gh/openg2p/openg2p-registry/branch/15.0-develop/graph/badge.svg)](https://codecov.io/gh/openg2p/openg2p-registry)
